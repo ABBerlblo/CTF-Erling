@@ -1,0 +1,116 @@
+{
+    "user1": [
+        {
+            "salt": "01110111",
+            "info": "Z0FBQUFBQm1MdUtxNmNRaWVtU0UtMm9sVEl3cFNkS0QyMHowYm1jZVNEeDNGS3NoMnpkMkFpYTU4TndrVm9BSERJeWZNdjlYc3JKWWJCOUREbUhiUzl0WklQTjdvNFdkTm5BYl9sd0lwNGNxTm1HLTE5OFJnNW89"
+        }
+    ],
+    "user2": [
+        {
+            "salt": "11000010",
+            "info": "Z0FBQUFBQm1MdUtxREFpNzVqdDk2WEZJbVN4OXNFeTVwTjZiZHFyRWFUNldCSTY3Vkp6NDBWMnhpU2s5LUNlQVhtOG1LUmhyVkZRQjVaN3F3OUtlSld2UFhDWmlyZHhHMUE9PQ=="
+        }
+    ],
+    "user3": [
+        {
+            "salt": "11011110",
+            "info": "Z0FBQUFBQm1MdUtxQlZzMlNPN1pRb3Bucm41SzFOSjhNNGdnbk90VmtzV3MtVHNZM2R0aFZxUlU0azNPUjlNbG5WZmdNTFNNLWdzTFpCU0pVck1CVUlyUnVmekt1T0FPSFE9PQ=="
+        }
+    ],
+    "user4": [
+        {
+            "salt": "00011110",
+            "info": "Z0FBQUFBQm1MdUtxMkxXYUJ2aXdyUWM3QmlQUWk0REdBVURuamg4TkdpckxlSDFTX0hhaVcyODdhbFp0aDIwWUxzeFRPZVZQeXZMc0VhWGE4OU5Nc3hvVnRMY1ZSMklHRDRYa2JIOTF3ZHlmQWtjUUo3SHdJelE9"
+        }
+    ],
+    "user5": [
+        {
+            "salt": "10110101",
+            "info": "Z0FBQUFBQm1MdUtxSUpBWFd2MlpXdWxrR2d4YlphbDN1X0pUVUQ3Tkd0aHd0MVdpb0tReFB2MnNiY3FtR3BwMnJqbFRBbEozLWcybl9iQVpxY0JHNFZrNDUzb2p3SWkwb0E9PQ=="
+        }
+    ],
+    "user6": [
+        {
+            "salt": "10110110",
+            "info": "Z0FBQUFBQm1MdUtxV25VdmRfMFVSV2hZbFVrQkFsM0RQODRSVl9jMWQ1aHdnaFdpX0d1Q3dhN1ZCY25hZ0JBdmZoLWYxWEptS1BwcXI3MnBxbHNTQmhlQ2V3Y21ZSnYwVUE9PQ=="
+        }
+    ],
+    "user7": [
+        {
+            "salt": "10011011",
+            "info": "Z0FBQUFBQm1MdUtxVUkwY2xWVTdnQ3hBZDBEQ2ZpWkQ0WkpTMDhOcHJoaERvdG5VQlVNYURkalNCMFR6cmplSjhEeEtkaHJPTURpTzBIWWNIb0xnRHVwYkhfZXdjRmdsZVI0a1lZUk9KZEhINDhtNmZBczVHZ2M9"
+        }
+    ],
+    "user8": [
+        {
+            "salt": "11101100",
+            "info": "Z0FBQUFBQm1MdUtxc1lPcXM1NnZZR1g2VkRJMk1qYnpJLXBLSFJDeEZrcFQtei1NNkNTZC1iamJNWWdkYVRiYUliOHlzanhoQ01QVjMwMUZDZWZ4WXZkMGNkWV9mTmlhaXBKMjlhd2lYcUZCV1VNTWVqY2FwUEU9"
+        }
+    ],
+    "user9": [
+        {
+            "salt": "01110111",
+            "info": "Z0FBQUFBQm1MdUtxY2tjdFk0MjVsYTJIRGJiMWhsRl9WOUIyQjJCaXRVWlI1V3ZJaXpMSGRKT1JDeDNFVl8tcFVfSkkxZmpoZkZOY29QMDZ0MF90SWd2bzByZ2o4MDJ1bnliYWRLTmxhc3BGazhFelJRN0Z6SkU9"
+        }
+    ],
+    "user10": [
+        {
+            "salt": "01111111",
+            "info": "Z0FBQUFBQm1MdUtxZ1JNV0J4NGdJc0hfb3ItVkFGTE8wWGxkOVN4bWNWZm5JRWRCUWpCdmhvaU11WEhGNjR3Mm1hM1g0TlkzUkhMbzdCNFpyU1Nva2NMdjZpYXZWQk5Id1Z0SnpfYmFIaXRsT2hsb1J3dWN6dVk9"
+        }
+    ],
+    "user11": [
+        {
+            "salt": "10111100",
+            "info": "Z0FBQUFBQm1MdUtxQmJGYklhcDgtZE5VVUVmOFFmbUtzZ19NOVllNExZWi1QZ1RiU3VMSmNWX25JcWhDOHhOZEJHZS0zT1FrWmdGbk5LOUw3UDJFaVFvbHZFa1MwdkRQdVNvTjJzbTdrdXlfcmRoTENJUWN1NUhzUE05UVFWd3ctbWF1MF9KZUU4VjBIemQyLXhWTHM3LWk0X0xrMHcwb2tBPT0="
+        }
+    ],
+    "user12": [
+        {
+            "salt": "01101100",
+            "info": "Z0FBQUFBQm1MdUtxWVE3Y3FLZkZaYUc1ZU0zX2p3TzZiSFN5Y0NnWmdib2hkaHduTnQ2MnZ5WlpaX2hjRTQ2MGNUcngwdXVtQkpLMjk4X3lWNjFQWHF1b3R5bWJkR3IxNUE9PQ=="
+        }
+    ],
+    "user13": [
+        {
+            "salt": "00001100",
+            "info": "Z0FBQUFBQm1MdUtxbElBVk4yQXFnM0FfT1FyMnRIaW84VlhRNzVnMGhyV1IzSlBGUzRMVGJ4S0NjNVRPUEZrRFE1dTAwX1ktY3lnblBmSmtVYmxRZmZpMFpkUEFqR3BTRW04Q1R5MW9hclg2SlFJQm1kX09HbVk9"
+        }
+    ],
+    "user14": [
+        {
+            "salt": "00110110",
+            "info": "Z0FBQUFBQm1MdUtxVmV5dVlBLTJ2ODZXRnhoaUp0VXRFM0NqMG5rbkp4cmhEc1c1Y29lMV9LREU5V0NjbERvMmlraDUzU0RyaHBiRk00dFZaOU53eWZZWFlieU8wdDNDYllMazROYUJBWFJJdEJTT0EzdWVMM0F6bl9Sd0JPUGZHQnpycTVMNS13eTY="
+        }
+    ],
+    "user15": [
+        {
+            "salt": "00110111",
+            "info": "Z0FBQUFBQm1MdUtxR3BVeFdmOWNUS091T2xWQUYyZHM5MmVud0k1TmdhQ2ZsMHFEd3laOVZLNVh5ZGhydG5VZGtSM3huLXdZUHhEeDItWGNFNUdPT3d4UVBhUml0ZGcwVkE9PQ=="
+        }
+    ],
+    "user16": [
+        {
+            "salt": "00000100",
+            "info": "Z0FBQUFBQm1MdUtxZlJ5cnZTNnhxVy1CREdBVkstMDI0RUUtVkNrWi1DNW5IWWE1bDVZMGE5QWJ2RlljeGV4cks3QUNRSUowamo3U2RpMUUtcFkwY2FIMVNsOXhmV1lxV3kyQzZ4LUFobFU2dDRYeElRTlJ1MHM9"
+        }
+    ],
+    "user17": [
+        {
+            "salt": "00010001",
+            "info": "Z0FBQUFBQm1MdUtxQ1lYbDRVSElwVWhNSFNub1l1bTJreEZ6a3pfQ2dGMzJILXAwUXFYSldjYzZwM3ViTmpLSXRTa2pPdjhVOURWU2hCR1p4Uk96NkxaMDR6c1RzRVlCZFE9PQ=="
+        }
+    ],
+    "user18": [
+        {
+            "salt": "00000110",
+            "info": "Z0FBQUFBQm1MdUtxT2J3Wk9Xd2gxOFFkc3ktNjNhSkRhYzlMc0FTdkFMbVJsWF9YaURIMENxMWFIajlfeFNmam5DWFZ3SFh2eVF6TFBwbEx5bFdMOEhwQnBrZFZUbTVQNk9SRFJROHRzYmlBZGJ2VG5BS1NjVTA0Q1ZYNm5sNlhpMzdaRS10Q0M4TGQ="
+        }
+    ],
+    "user19": [
+        {
+            "salt": "11000001",
+            "info": "Z0FBQUFBQm1MdUtxbkxEUnZyMjFqbzZadk1kSWlJeTZoQV9JLVJVVmowM04wUlMxQnBVUmcyX0dFdXhwX3lwZjZfSUtocjB1NXVhSGo0M1JpRFdsaWh5c1JvS3JiN09aektHYVJDOWk3WnlMeE0xOW9ZN0FyN009"
+        }
+    ]
+}
