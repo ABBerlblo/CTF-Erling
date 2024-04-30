@@ -1,0 +1,122 @@
+{
+    "user1": [
+        {
+            "salt": "01111000",
+            "info": "7fae763ad2cf4991367f408a35c5ba462d927f111907e980b7d7a33a78c9ab4c"
+        }
+    ],
+    "user2": [
+        {
+            "salt": "00011110",
+            "info": "031526f3b651f9cb25cdb15c11f7366494cbe40e79d4520637555e41f912a55d"
+        }
+    ],
+    "user3": [
+        {
+            "salt": "10000011",
+            "info": "bb1cae7e61edb7492685f631172acacc06eef43940b3e46a2fd077bfb0672cbc"
+        }
+    ],
+    "user4": [
+        {
+            "salt": "11101000",
+            "info": "13f16803f66430121eab9d1d038214b3c8f0e53f68d0f7a9a688994d4c9b1523"
+        }
+    ],
+    "user5": [
+        {
+            "salt": "00001010",
+            "info": "8652e4f6f024a756e25e6cac219930aea953a00b209f052bc5f418a0a51005c1"
+        }
+    ],
+    "user6": [
+        {
+            "salt": "00011110",
+            "info": "73199fcaaeb979381fc64c995dbc1aa613151f01f5aaa113988144abdd997f7e"
+        }
+    ],
+    "user7": [
+        {
+            "salt": "10001101",
+            "info": "80bcae7fd7b4e5ee3fbfb81c57580c594207d3594e98e6a83ceec0f149cc76fa"
+        }
+    ],
+    "user8": [
+        {
+            "salt": "11111001",
+            "info": "b03d723b19f0f4af5d7d2898f920b3d390306771e9aaf1b0c6ecefeb0c427135"
+        }
+    ],
+    "user9": [
+        {
+            "salt": "10110111",
+            "info": "737b2b5dfa627b2ff1970a34ed83e3ca7381349683e4d41fcd920acb0806ba61"
+        }
+    ],
+    "user10": [
+        {
+            "salt": "11010110",
+            "info": "4b5f3e2f0c1ed170a919ae1a378c5bb4120c990e2f82c009580444be2fd5b683"
+        }
+    ],
+    "user11": [
+        {
+            "salt": "00000011",
+            "info": "d56faa45ed41ae4f6b764ef4a0c0318f345522fbc80b5a97a98ea0527bea7836"
+        }
+    ],
+    "user12": [
+        {
+            "salt": "00010100",
+            "info": "298fe1c282c0c5ca5c4980552ed3a207a5b634f68e46bc57f880f1fe9f356040"
+        }
+    ],
+    "user13": [
+        {
+            "salt": "01001011",
+            "info": "f9a7048494a44cace74274f3d52c18bc8ac365802e6aaaa6bf2be0874512ddb6"
+        }
+    ],
+    "user14": [
+        {
+            "salt": "10001101",
+            "info": "629f73aaf3a990dd130d1b13a25ffa4caa977742660d24ce0f6f73d568543948"
+        }
+    ],
+    "user15": [
+        {
+            "salt": "01001011",
+            "info": "c9288dcbbc315f0ec16f7b0f6e9c4d6472bb5897d7f9dac08183194dae58b36f"
+        }
+    ],
+    "user16": [
+        {
+            "salt": "10001111",
+            "info": "313983f335658200b87fb5e979dd8e52d45e356de64a923061314b37653486ac"
+        }
+    ],
+    "user17": [
+        {
+            "salt": "10011000",
+            "info": "2123b67fbdf3ce46876db7b31f14e2ea9404fe2e73324d93243380ef37ad0349"
+        }
+    ],
+    "user18": [
+        {
+            "salt": "10001011",
+            "info": "f8193785263bb2af7927c541020de74ad06aa80e43390a8bf6d3b5f6b1dfc2a8"
+        }
+    ],
+    "user19": [
+        {
+            "salt": "01000010",
+            "info": "99be42c7203a4a1660d92ad37b0b1592800c7db4b83d9178cc89d9a8230355d4"
+        }
+    ],
+    "user20": [
+        {
+            "salt": "01110100",
+            "info": "e8cbfa908785a0e08c0af5384f7fcda3b1d94cb4cdaf0f139a5b934f9dc6747b"
+        }
+    ]
+}
