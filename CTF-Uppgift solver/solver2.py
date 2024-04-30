@@ -1,9 +1,9 @@
 import hashlib, itertools, time
 
 def compare_hash(target_hash, salt, length):
-    # Define the alphabet containing upper and lower case letters
-    alphabet = 'abcdefghijklmnopqrstuvwxyz'
-    # alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    # Define the alphabet
+    # alphabet = ' abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789' # Complete
+    alphabet = 'abcdefghijklmnopqrstuvwxyz' # Only lovercase letters
 
     # Generate all possible combinations of letters of the given length
     combinations = itertools.product(alphabet, repeat=length)
